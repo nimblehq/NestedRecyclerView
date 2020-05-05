@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/nimblehq/NestedRecyclerView.svg)](https://jitpack.io/#nimblehq/NestedRecyclerView)
+
 ## Improve scroll in nested Recycler Views
 This piece of code aims to improve the scroll angle when 2 recyclers views are nested : a recycler view that contains other recycler views, just like the Play Store.
 
